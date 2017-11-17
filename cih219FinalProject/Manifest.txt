@@ -1,0 +1,2 @@
+Main-Class: Employeeinterface
+Class-Path: ojdbc6.jar

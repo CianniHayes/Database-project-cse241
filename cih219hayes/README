@@ -1,0 +1,8 @@
+Input the userid
+Input the password
+If incorrect it will reprompt
+(all case sensitive)
+Input Substring
+Will find the names that match subsrting
+Input instructor_id
+gives you instructor information.
